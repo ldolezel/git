@@ -1,7 +1,7 @@
 # pet zajimavosi o gitu
 nikdo ho neumi
 
-Zaj9mavý odkaz [xkcd!](https://xkcd.com/1597/)
+Zajímavý odkaz [xkcd!](https://xkcd.com/1597/)
 
 Oh shit, I did something terribly wrong, please tell me git has a magic time machine!?!
 

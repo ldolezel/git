@@ -11,3 +11,5 @@ Gastrointestinální trakt (GIT)
 * příjem potravy a odstraňování nestravitelných odpadních látek
 * mechanické a chemické zpracování potravy
 * vstřebávání živin
+
+https://twitter.com/phil_cooley/status/985287168867287040
